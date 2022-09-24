@@ -72,7 +72,7 @@ h6 {
   position: fixed;
   width: 100%;
   height: 100vh;
-  background: #fff url("../img/giphy%20(1).gif") no-repeat center;
+  background: #fff;
   z-index: 999;
 }
 
@@ -82,6 +82,7 @@ h6 {
   width: 100%;
   height: 100vh;
   background: #fff url("../img/giphy%20(1).gif") no-repeat center;
+  animation: animate-preloader 2s linear infinite;
   z-index: 999;
  
 }
