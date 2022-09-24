@@ -68,15 +68,12 @@ h6 {
 /*--------------------------------------------------------------
 # Preloader
 --------------------------------------------------------------*/
-#preloader {
+#loader {
   position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  z-index: 9999;
-  overflow: hidden;
-  background: #fff;
+  width: 100%;
+  height: 100vh;
+  background: #fff url("https://github.com/safaa-charhaby/SafaaCharhaby_CV/blob/main/assets/img/giphy%20(1).gif") no-repeat center;
+  z-index: 999;
 }
 
 #preloader:before {
