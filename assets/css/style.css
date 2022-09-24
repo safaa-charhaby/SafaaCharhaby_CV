@@ -73,7 +73,8 @@ h6 {
   width: 100%;
   height: 100vh;
   background: #fff;
-  z-index: 1000;
+    width: 30%;
+  z-index: 999;
 }
 
 #preloader:before {
@@ -81,8 +82,8 @@ h6 {
    position: fixed;
   width: 100%;
   height: 100vh;
-  background: #fff url("../img/giphy%20(1).gif") no-repeat center 2s linear infinite;
-  z-index: 1000;
+  background: #fff url("../img/giphy%20(1).gif") no-repeat center;
+  z-index: 999;
  
 }
 
