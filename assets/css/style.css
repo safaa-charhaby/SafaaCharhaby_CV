@@ -75,6 +75,7 @@ h6 {
   background: #333333 url("../img/giphy%20(1).gif") no-repeat center center;
   background-size: 20%;
   z-index: 9990;
+  animation: animate-preloader 10s linear infinite;
 }
 disapper{
   animation: vanish 10s forwards;
