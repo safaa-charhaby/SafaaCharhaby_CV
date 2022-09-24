@@ -128,11 +128,10 @@
   /**
    * Preloader
    */
-  let preloader = select('#preloader');
-  if (preloader) {
-    window.addEventListener('load', () => {
-      preloader.remove()
-    });
+  var loader = document.querySelector(".loader")
+    window.addEventListener("load", vanish);
+     function vanish() {
+       loader.classList.add("disppear")
   }
 
   /**
