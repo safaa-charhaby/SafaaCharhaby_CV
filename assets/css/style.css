@@ -89,7 +89,7 @@ h6 {
   /* centers the loading animation horizontally one the screen */
   top: 50%;
   /* centers the loading animation vertically one the screen */
-  background-image: url("assets/img/giphy%20(1).gif");
+  background-image: url("img/giphy%20(1).gif");
   /* path to your loading animation */
   background-repeat: no-repeat;
   background-position: center;
