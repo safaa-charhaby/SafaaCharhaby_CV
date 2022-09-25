@@ -257,6 +257,7 @@ h6 {
   height: 100vh;
   background: #0000 url("../img/giphy%20(2).gif") center center no-repeat;
   background-size: 40%;
+  padding-left: 10%
   position: relative;
   z-index: 1;
 }
