@@ -42,7 +42,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #0563bb;
+  background: #252324;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -155,7 +155,7 @@ h6 {
   transition: 0.3s;
   font-size: 15px;
   border-radius: 50px;
-  background: #f2f3f5;
+  background: #45505b;
   height: 56px;
   width: 100%;
   overflow: hidden;
@@ -192,7 +192,7 @@ h6 {
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
   color: #fff;
-  background: #0563bb;
+  background: #252324;
 }
 
 .nav-menu a:hover span,
@@ -413,7 +413,7 @@ section {
 .about .content p:last-child {
   margin-bottom: 0;
 }
-
+<hr>
 /*--------------------------------------------------------------
 # Facts
 --------------------------------------------------------------*/
