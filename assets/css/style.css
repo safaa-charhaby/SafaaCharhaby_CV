@@ -462,7 +462,7 @@ section {
 # Akills
 --------------------------------------------------------------*/
 .skills .progress {
-  height: 60px;
+  height: 100px;
   display: block;
   background: none;
   border-radius: 0;
@@ -492,7 +492,6 @@ section {
   height: 10px;
   transition: 0.9s;
   background-color: #0563bb;
-  padding-left: 50px;
 }
 <p></p>
 
