@@ -259,7 +259,7 @@ h6 {
   background-size: 25%;
   padding-left: 300px;
   position: relative;
-  z-index: 8000;
+  z-index: 1;
 }
 
 @media (min-width: 992px) {
