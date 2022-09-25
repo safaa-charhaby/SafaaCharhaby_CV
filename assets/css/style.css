@@ -257,8 +257,8 @@ h6 {
   height: 100vh;
   background: url("../img/giphy%20(2).gif?raw=true") center center no-repeat;
   background-size: 20%;
-  position: fixed;
-  z-index: 9991;
+  position: relative;
+  z-index: 1;
 }
 
 @media (min-width: 992px) {
