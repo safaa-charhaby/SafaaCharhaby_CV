@@ -255,10 +255,10 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/8eac05dde31980de7d988a7ca6e4a5e1.gif") center center no-repeat;
+  background: url("../img/giphy%20(2).gif?raw=true") center center no-repeat;
   background-size: 20%;
-  position: relative;
-  z-index: 900;
+  position: fixed;
+  z-index: 9991;
 }
 
 @media (min-width: 992px) {
