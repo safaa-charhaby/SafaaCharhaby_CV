@@ -205,7 +205,7 @@ h6 {
 .nav-menu a:hover,
 .nav-menu li:hover>a {
   width: 100%;
-  color: #252324;
+  color: #fff;
 }
 
 .nav-menu a:hover span,
