@@ -1056,9 +1056,10 @@ section {
   display: none;
   color: #fff;
   background: url("https://media4.giphy.com/media/clZKbOwICUDlLtRF5u/giphy.gif?cid=ecf05e47a4e1oqze7gp4heuq1emz25h3c5swbrqwkktjau8c&rid=giphy.gif&ct=s");
-  text-align: left;
-  padding: 15px;
-  font-weight: 600;
+  text-align: center;
+  padding: 50% 50%;
+  width: 300px;
+  hight: 300px;
 }
 
 .contact .php-email-form .error-message br+br {
