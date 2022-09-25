@@ -170,7 +170,7 @@ h6 {
 .nav-menu a span,
 .nav-menu a:focus span {
   padding: 0 5px 0 7px;
-  color: #45505b;
+  color: #fff;
 }
 
 @media (min-width: 992px) {
