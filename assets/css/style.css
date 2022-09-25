@@ -76,7 +76,7 @@ h6 {
   background-size: 20%;
   z-index: 9990;
 }
-disapper{
+.disapper{
   animation: vanish 10s forwards;
 }
   @keyframes{
