@@ -306,9 +306,10 @@ h6 {
   font-size: 24px;
   display: inline-block;
   color: #45505b;
-  line-height: 1;
+  line-height: 3;
   margin-right: 20px;
   transition: 0.3s;
+  padding-top
 }
 
 #hero .social-links a:hover {
@@ -484,7 +485,7 @@ section {
 }
 
 .skills .progress-bar-wrap {
-  background: #f2f3f5;
+  background: #252324;
 }
 
 .skills .progress-bar {
