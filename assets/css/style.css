@@ -275,7 +275,7 @@ h6 {
   top: 0;
   left: 0;
   right: 0;
- z-index: 0.5;
+ z-index: 2;
 }
 
 #hero h1 {
