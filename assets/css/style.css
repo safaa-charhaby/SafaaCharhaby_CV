@@ -275,7 +275,7 @@ h6 {
   top: 0;
   left: 0;
   right: 0;
- z-index: 2;
+  z-index: 1;
 }
 
 #hero h1 {
@@ -284,7 +284,6 @@ h6 {
   font-weight: 700;
   line-height: 40px;
   color: #45505b;
-z-index: 3;
 }
 
 #hero p {
@@ -292,7 +291,6 @@ z-index: 3;
   margin: 15px 0 0 0;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
-z-index: 3;
 }
 
 #hero p span {
@@ -313,7 +311,6 @@ z-index: 3
   margin-right: 20px;
   transition: 0.3s;
   padding-bottom: 20px;
-z-index: 3;
 }
 
 #hero .social-links a:hover {
@@ -335,6 +332,9 @@ z-index: 3;
     font-size: 20px;
     line-height: 24px;
   }
+.container {
+z-index: 5;
+}
 }
 
 /*--------------------------------------------------------------
