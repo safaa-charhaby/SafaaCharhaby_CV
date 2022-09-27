@@ -259,6 +259,7 @@ h6 {
   height: 100vh;
   background: url("https://64.media.tumblr.com/8d8b72eaeb9920b7de19a4866b4c18a1/e1f2c7535510a932-95/s540x810/b1d8913ea222cad6c8dac8e82e5e99fd799e1fa4.gif") top right no-repeat;
   background-size: cover;
+  z-index: 1 ;
 }
 
 @media (min-width: 992px) {
@@ -333,7 +334,7 @@ z-index: 3
     line-height: 24px;
   }
 .container {
-z-index: 5;
+    z-index: 5;
 }
 }
 
