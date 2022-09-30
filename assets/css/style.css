@@ -201,7 +201,6 @@ h6 {
 }
 .navbar nav-menu {
   margin-left: 70px;
-  margin-right: 70px;
   padding: 70px;
 }
 
@@ -236,7 +235,7 @@ h6 {
 */
 .mobile-nav{
   display: block;
-  margin-right: 100px;
+  margin-left: 100px;
 }
 .mobile-nav-toggle {
   position: fixed;
