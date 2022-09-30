@@ -223,7 +223,8 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav {
-  position:fixed;
+  position: fixed;
+  top: 90px;
   
 }
 .mobile-nav-toggle {
