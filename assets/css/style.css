@@ -135,9 +135,12 @@ h6 {
 /**
 * Desktop Navigation 
 */
+@media (min-width: 200px) {
 .mobile-nav {
   padding: 0;
-  display: block;
+  display: none;
+  visibility: hidden;
+  } 
 }
 .nav-menu {
   padding: 0;
@@ -232,8 +235,8 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav{
-    margin-left: 30px;
-  margin-right: 30px;
+    margin-left: 50px;
+  margin-right: 50px;
 }
 .mobile-nav-toggle {
   position: fixed;
