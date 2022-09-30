@@ -200,10 +200,6 @@ h6 {
     color: #fff;
   }
 }
-.navbar nav-menu {
-  margin-left: 70px;
-  padding: 70px;
-}
 
 .nav-menu a:hover,
 .nav-menu .active,
@@ -236,7 +232,7 @@ h6 {
 */
 .mobile-nav{
   display: block;
-  margin-left: 100px;
+  margin-left: 120px;
 }
 .mobile-nav-toggle {
   position: fixed;
