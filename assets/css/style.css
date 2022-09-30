@@ -222,13 +222,6 @@ h6 {
 /**
 * Mobile Navigation 
 */
-.mobile-nav {
-  position: fixed;
-  top: 90px;
-  background-image:url("https://media0.giphy.com/media/XNI3KDUm7xEMdNBBxD/giphy.gif?cid=ecf05e47cfea75bf43ef6b5c6e6ad46baef39410c4ee2baa&rid=giphy.gif&ct=s");
-        
-  
-}
 .mobile-nav-toggle {
   position: fixed;
   right: 10px;
@@ -256,6 +249,7 @@ h6 {
 .mobile-nav-active #header {
   left: 0;
   background: #45505b;
+  width: 100%;
 }
 
 .mobile-nav-active .mobile-nav-toggle {
