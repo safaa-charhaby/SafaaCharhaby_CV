@@ -135,6 +135,10 @@ h6 {
 /**
 * Desktop Navigation 
 */
+.mobile-nav {
+  padding: 0;
+  display: block;
+}
 .nav-menu {
   padding: 0;
   display: block;
