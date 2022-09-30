@@ -235,7 +235,8 @@ h6 {
   line-height: 0;
   cursor: url("https://github.com/safaa-charhaby/SafaaCharhaby_CV/blob/main/minimal-donut-cursor-pack%20(1).png");
   border-radius: 50px;
-  padding: 5px;
+  padding-right: 50px;
+  padding-left: 50px;
 }
 
 .mobile-nav-toggle i {
