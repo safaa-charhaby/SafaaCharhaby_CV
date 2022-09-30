@@ -196,6 +196,11 @@ h6 {
     color: #fff;
   }
 }
+.navbar nav-menu {
+  margin-left: 30px;
+  margin-right: 30px;
+  
+}
 
 .nav-menu a:hover,
 .nav-menu .active,
@@ -203,8 +208,6 @@ h6 {
 .nav-menu li:hover>a {
   color: #fff;
   background: #252324;
-  margin-left: 30px;
-  margin-right: 30px;
 }
 
 .nav-menu a:hover span,
@@ -228,6 +231,10 @@ h6 {
 /**
 * Mobile Navigation 
 */
+.mobile-nav{
+    margin-left: 30px;
+  margin-right: 30px;
+}
 .mobile-nav-toggle {
   position: fixed;
   right: 10px;
