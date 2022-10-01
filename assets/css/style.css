@@ -232,7 +232,6 @@ h6 {
 */
 .mobile-nav{
   display: block;
-  margin-left: 120px;
 }
 .mobile-nav-toggle {
   position: fixed;
