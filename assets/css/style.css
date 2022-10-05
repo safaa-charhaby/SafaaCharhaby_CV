@@ -1087,14 +1087,11 @@ h6 {
   padding-bottom: 8px;
 }
 
+
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: url("https://media4.giphy.com/media/clZKbOwICUDlLtRF5u/giphy.gif?cid=ecf05e47a4e1oqze7gp4heuq1emz25h3c5swbrqwkktjau8c&rid=giphy.gif&ct=s" CENTER center no-repeat;
-  width: 130px;
-  hight: 90px;
 }
-
 .contact .php-email-form .error-message br+br {
   margin-top: 25px;
 }
