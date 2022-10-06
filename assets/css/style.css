@@ -16,7 +16,7 @@
 }
 body {
   font-family: "Open Sans", sans-serif;
-  color: #272829;
+  color: #0000;
 }
 
 a {
@@ -310,7 +310,7 @@ h6 {
   font-size: 50px;
   font-weight: 700;
   line-height: 40px;
-  color: #39e7ff;
+  color: whitesmoke;
 }
 
 #hero p {
@@ -349,8 +349,9 @@ h6 {
   }
 
   #hero h1 {
-    font-size: 25px;
+    font-size: 30px;
     line-height: 36px;
+    color: whitesmoke;
   }
 
   #hero p {
