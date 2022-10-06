@@ -412,6 +412,19 @@ h6 {
 .section-title p {
   margin-bottom: 0;
 }
+@media (min-width:700px){
+  .section-title h2 {
+  font-size: 32px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  margin-left: -100px;
+  padding-bottom: 20px;
+  MARGIN-TOP: 60px;
+  position: RELATIVE;
+  color: #45505b;
+}
+}
 
 /*--------------------------------------------------------------
 # About
@@ -1084,6 +1097,7 @@ h6 {
 .contact .php-email-form {
   width: 100%;
   background: #fff;
+  
 }
 
 .contact .php-email-form .form-group {
@@ -1148,14 +1162,30 @@ h6 {
 .contact .php-email-form textarea {
   padding: 10px 12px;
 }
-
 .contact .php-email-form button[type=submit] {
-  background: #252324;
+  background: #45505b;
   border: 0;
   padding: 10px 35px;
-  color:#45505b;
+  color: #252324;
   transition: 0.4s;
   border-radius: 50px;
+}
+@media (min-width: 700px){
+.contact .php-email-form button[type=submit] {
+  background: #45505b;
+  border: 0;
+  padding: 10px 35px;
+  color: #252324;
+  transition: 0.4s;
+  border-radius: 50px;
+  margin-left: -100px;
+}
+.contact .php-email-form {
+  width: 100%;
+  background: #fff;
+  margin-left: 200px;
+  
+}
 }
 
 .contact .php-email-form button[type=submit]:hover {
