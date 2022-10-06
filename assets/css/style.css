@@ -289,14 +289,14 @@ h6 {
   }
 }
 #hero:before {
-    content: ' ';
+   content: ' ';
     display: block;
-  position: absolute;
-  background-color: white;
-  height: 100%;
-  width: 100%;
-  opacity: 30%;
-  z-index: 0;
+    position: absolute;
+    background-color: #212529;
+    height: 100%;
+    width: 100%;
+    opacity: 60%;
+    z-index: 0;
 }
 #hero {
   width: 100%;
@@ -311,7 +311,7 @@ h6 {
   font-size: 50px;
   font-weight: 700;
   line-height: 40px;
-  color: dark;
+  color: whitesmoke;
 }
 
 #hero p {
@@ -322,7 +322,7 @@ h6 {
 }
 
 #hero p span {
-  color: #3b9ee9;
+  color: #ff9efe;
   letter-spacing: 1px;
 }
 
@@ -352,7 +352,7 @@ h6 {
   #hero h1 {
     font-size: 30px;
     line-height: 36px;
-    color: dark;
+    color: whitesmoke;
   }
 
   #hero p {
