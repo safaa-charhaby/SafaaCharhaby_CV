@@ -170,7 +170,7 @@ h6 {
   transition: 0.3s;
   font-size: 15px;
   border-radius: 50px;
-  background: #45505b;
+  background: #721677;
   height: 56px;
   width: 100%;
   overflow: hidden;
@@ -242,6 +242,7 @@ h6 {
   margin-left: 110px;
 }
 .mobile-nav-toggle {
+  color: #ff9efe;
   position: fixed;
   right: 10px;
   top: 10px;
@@ -257,9 +258,6 @@ h6 {
   padding: 5px;
 }
 
-.mobile-nav-toggle i {
-  color: #0000;
-}
 
 .mobile-nav-active {
   overflow: hidden;
@@ -1097,6 +1095,8 @@ h6 {
 .contact .php-email-form {
   width: 100%;
   background: #fff;
+  padding-left: 50px;
+  padding-right: 50px;
   
 }
 
@@ -1178,12 +1178,13 @@ h6 {
   color: #252324;
   transition: 0.4s;
   border-radius: 50px;
-  margin-left: -100px;
+  margin-left: 0px;
 }
 .contact .php-email-form {
   width: 100%;
   background: #fff;
-  margin-left: 200px;
+  margin-left: 270px;
+  PADDING-RIGHT: 300px;
   
 }
 }
