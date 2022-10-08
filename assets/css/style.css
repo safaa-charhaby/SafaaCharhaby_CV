@@ -431,9 +431,7 @@ h6 {
 .about {
   cursor: url("https://github.com/safaa-charhaby/SafaaCharhaby_CV/blob/main/minimal-donut-cursor-pack%20(1).png"), auto;
 }
-.about .row {
-  margin-left: 60px;
-}
+
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
