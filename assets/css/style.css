@@ -170,7 +170,7 @@ h6 {
   transition: 0.3s;
   font-size: 15px;
   border-radius: 50px;
-  background: #721677;
+  background: #6c757d;
   height: 56px;
   width: 100%;
   overflow: hidden;
@@ -331,7 +331,7 @@ h6 {
 #hero .social-links a {
   font-size: 24px;
   display: inline-block;
-  color: #39e7ff;
+  color: #6c757d;
   line-height: 3;
   margin-right: 20px;
   transition: 0.3s;
@@ -340,6 +340,14 @@ h6 {
 
 #hero .social-links a:hover {
   color: #0563bb;
+}
+.lwla {
+  position:absolute;
+  background: white;
+}
+
+.lwla:hover {
+  opacity:0;
 }
 
 @media (max-width: 992px) {
@@ -430,10 +438,14 @@ h6 {
 .about {
   cursor: url("https://github.com/safaa-charhaby/SafaaCharhaby_CV/blob/main/minimal-donut-cursor-pack%20(1).png"), auto;
 }
+.about .row {
+  margin-left: 60px;
+}
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
   color: #728394;
+  margin-bottom: 40px;
 }
 
 .about .content ul {
