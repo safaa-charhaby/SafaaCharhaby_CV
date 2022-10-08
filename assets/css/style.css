@@ -346,7 +346,7 @@ h6 {
   background: white;
 }
 
-.lwla:hover {
+.lwla :hover {
   opacity:0;
 }
 
