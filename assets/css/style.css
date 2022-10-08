@@ -341,14 +341,6 @@ h6 {
 #hero .social-links a:hover {
   color: #0563bb;
 }
-.lwla {
-  position:absolute;
-  background: white;
-}
-
-.lwla :hover {
-  opacity:0;
-}
 
 @media (max-width: 992px) {
   #hero {
