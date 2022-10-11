@@ -1171,7 +1171,7 @@ h6 {
   background-color: #141619;
   padding: 10px 12px;
 }
-.contact .php-email-form textarea {
+.contact .php-email-form textarea:hover {
   background-color: #45505b;
   padding: 10px 12px;
 }
