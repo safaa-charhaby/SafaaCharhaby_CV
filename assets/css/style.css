@@ -1162,9 +1162,17 @@ h6 {
   height: 44px;
   background-color: #141619;
 }
+.contact .php-email-form input:hover {
+  height: 44px;
+  background-color: #45505b;
+}
 
 .contact .php-email-form textarea {
   background-color: #141619;
+  padding: 10px 12px;
+}
+.contact .php-email-form textarea {
+  background-color: #45505b;
   padding: 10px 12px;
 }
 .contact .php-email-form button[type=submit] {
