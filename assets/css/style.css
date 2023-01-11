@@ -1204,6 +1204,7 @@ h6 {
 
 .contact .php-email-form button[type=submit]:hover {
   background: #252324;
+  color: white;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1225,7 +1226,12 @@ h6 {
     transform: rotate(360deg);
   }
 }
-
+.error-message {
+  background: url("https://media1.giphy.com/media/clZKbOwICUDlLtRF5u/giphy.gif?cid=ecf05e47rpmnuq79rc3enfmc0c949nuby08bcb3ecwlhhy3v&rid=giphy.gif&ct=s") auto no-repeat ;
+z-index: 10000;}
+.sent-message {
+  background : url("https://media1.giphy.com/media/fuQN5D0vC446GYbUNu/giphy.gif?cid=ecf05e474v492lq3zbad1no3r86arrqxiodued65oseqswpi&rid=giphy.gif&ct=s") auto no-repeat ;
+z-index: 10000;}
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
